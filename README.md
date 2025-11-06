@@ -17,6 +17,10 @@ Melee Weapons Pack [Swords - Axes]:武器に使用<br>
 * Fontデータ： Noto Sans JP-Medium SDF (TMP_Font Asset)
 * 使用ツール:GitHub、SorceTree、VisualStudioCode、Chrome、Safari、Chatgpt、Google AI Studio、 Google Gemini、Macbook、Windows
 
+## 企画
+以下企画になります。<br>
+https://github.com/rune337/Plan/blob/main/Battle%20to%20Commander.pdf<br><br>
+
 ## サンプルゲーム
 https://rune337.github.io/WindowsWebUnityGirl/
 
